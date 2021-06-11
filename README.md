@@ -2,7 +2,7 @@
 
 <br/>
 
-- 🔭 I’m currently working at [Calibo](https://www.calibo.com/) as Senior UI Developer.
+- 🔭 I’m currently working at [Calibo](https://www.linkedin.com/company/calibo-llc/) as Senior UI Developer.
 - 🌱 I have a 7+ years of experience at UI side on diffreent type of web technologies like React Js, Javascript, Bootstrap, SCSS, HTML.
 - 💬 Ask me about UI, CSS related stuff.
 
