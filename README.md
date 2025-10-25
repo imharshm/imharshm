@@ -1,9 +1,8 @@
 <h1>Hi 👋, I'm Harshal Mahajan</h1>
 
 <br/>
-
-- 🔭 I’m currently working at [CDK Global](https://www.cdkglobal.com/) as Senior Software Engineer.
-- 🌱 I have 10+ years of experience in front-end development, specializing in React.js, Redux Toolkit, JavaScript, HTML, CSS/SCSS, and Bootstrap.
+- 🔭 Currently building cool stuff as a Senior Software Engineer at [CDK Global](https://www.cdkglobal.com/).
+- 🌱 10+ years of front-end experience crafting web apps with React.js, JavaScript, HTML, CSS/SCSS, and Bootstrap.
 - 💬 Feel free to ask me about UI, CSS, and front-end development.
 
 <br/>
